@@ -1,26 +1,23 @@
-nav{}
-/* header related styles */
-.display{
+nav{
 
 }
-    
-background-color: #e5547331;
-.banner{
-   padding: 30px 50px 30px 200px;
-    display: flex;
+.header{
+    background-color: #e554733d;
 }
-.banner .profile-picture{
-    width: 635px;
-    align-items: center;
+.banner{
+    padding: 30px 30px 30px 150px;
+
+}
+.p-image{
+    display: grid;
 }
 .btn-primary{
     border-radius: 5px;
     background-color: #e55473;
     border: 0;
     color: white;
-    font-size: 20px;
-    font-weight: 700
+    font-weight: 700;
     padding: 18px 35px;
-    
+    font size: 20px;
     
 }
