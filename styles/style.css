@@ -1,0 +1,15 @@
+nav{
+    display: block;
+}
+/* header related styles */
+.header{
+    background-color: #E55473;
+}
+.btn-primary{
+    border-radius: 10px;
+    background-color: #E55473;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 300;
+    padding: 15px 35px;
