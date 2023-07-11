@@ -3,13 +3,34 @@ nav{
 }
 .header{
     background-color: #e554733d;
+    
 }
 .banner{
-    padding: 30px 30px 30px 150px;
+    padding: 30px 30px 30px 50px;
+    display: flex;
+    align-items: center;
+    
+    
 
 }
-.p-image{
-    display: grid;
+.banner .paraphghra{
+    padding: 0px 30px 30px 50px;
+}
+h1{
+    font-size: 70px;
+    margin-block-start: 50px;
+    margin-block-end: 0px;
+    margin-inline-start: 0px;
+    margin-inline-end: 50px;
+    font-weight: bold;
+    
+}
+}
+.banner .p-image{
+    width: 635px;
+    height: 800px;
+    
+    
 }
 .btn-primary{
     border-radius: 5px;
@@ -19,5 +40,6 @@ nav{
     font-weight: 700;
     padding: 18px 35px;
     font size: 20px;
+    
     
 }
