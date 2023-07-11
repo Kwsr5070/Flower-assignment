@@ -1,10 +1,10 @@
 nav{}
 /* header related styles */
-.header{
-    
-    background-color: #e5547328;
-    
+.display{
+
 }
+    
+background-color: #e5547331;
 .banner{
    padding: 30px 50px 30px 200px;
     display: flex;
@@ -14,11 +14,13 @@ nav{}
     align-items: center;
 }
 .btn-primary{
-    border-radius: 10px;
-    background-color: #E55473;
+    border-radius: 5px;
+    background-color: #e55473;
     border: 0;
     color: white;
     font-size: 20px;
-    font-weight: 300;
-    padding: 15px 35px;
+    font-weight: 700
+    padding: 18px 35px;
+    
+    
 }
