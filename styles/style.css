@@ -1,9 +1,17 @@
-nav{
-    display: block;
-}
+nav{}
 /* header related styles */
 .header{
-    background-color: #E55473;
+    
+    background-color: #e5547328;
+    
+}
+.banner{
+   padding: 30px 50px 30px 200px;
+    display: flex;
+}
+.banner .profile-picture{
+    width: 635px;
+    align-items: center;
 }
 .btn-primary{
     border-radius: 10px;
@@ -13,3 +21,4 @@ nav{
     font-size: 20px;
     font-weight: 300;
     padding: 15px 35px;
+}
